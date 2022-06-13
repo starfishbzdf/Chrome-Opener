@@ -13,22 +13,22 @@ https://www.unifiedremote.com/tutorials/how-to-install-a-custom-remote
   1) In remote.lua , copy and paste one of the commands, edit the number of the command accordingly
 			from
 			
-			> actions.command3
+			 actions.command3
 	
 		to 
 			
-			> actions.command4
+			 actions.command4
 	
 	
 	
 	2) In layout.xml , copy and paste to make another row and button, edit the number of the command accordingly
 			from 
 			
-			> ontap="command3"
+			 ontap="command3"
 			
 		to 
 		
-			> ontap="command4"
+			 ontap="command4"
 	
 	etc.
 	
