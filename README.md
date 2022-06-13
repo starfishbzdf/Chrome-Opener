@@ -1,7 +1,13 @@
 # Chrome-Opener
 Custom Unified Remote module to open predetermined URLs in Google Chrome
 
-Installation:
+# Installation:
+Download ZIP:
+
+<img src="https://sites.northwestern.edu/researchcomputing/files/2021/05/github.png" height="300" width="450" >
+
+Then place in the correct folder:
+
 https://www.unifiedremote.com/tutorials/how-to-install-a-custom-remote
 
 # Configuration:
