@@ -12,7 +12,9 @@ https://www.unifiedremote.com/tutorials/how-to-install-a-custom-remote
 
 # Configuration:
 * Opening different websites:
+
   In remote.lua , find and edit these lines to fit your needs:
+  
   > os.start("chrome", "https://www.reddit.com");
 
 * Adding more buttons:
